@@ -1,0 +1,22 @@
+{
+  "abstract_unnumbered": true,
+  "docx_fonts": [
+    "Times New Roman"
+  ],
+  "figures_cited_in_flow": {
+    "Figure 1": true,
+    "Figure 2": true,
+    "Figure 3": true
+  },
+  "numbered_main_sections": true,
+  "pass": true,
+  "reference_entries": 35,
+  "tables_cited_in_flow": {
+    "Table 1": true,
+    "Table 2": true,
+    "Table 3": true,
+    "Table 4": true
+  },
+  "uncited_reference_keys": [],
+  "unmatched_in_text_citation_keys": []
+}

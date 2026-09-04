@@ -1,0 +1,170 @@
+{
+  "input": "/workspace/scratch/70ae35ad66c5/Green_Finance_Physical_Transition_Credibility_G20/deliverables/Green_Bonds_Physical_Transition_Credibility_G20_QAREOS.docx",
+  "fonts_by_char_count": {
+    "Times New Roman": 57031
+  },
+  "direct_run_formatting_runs": 997,
+  "direct_paragraph_formatting_paragraphs": 759,
+  "heading_like_paragraphs_not_heading_style": [
+    {
+      "para_index": 40,
+      "text": "Table 1. Data architecture and analytical definitions",
+      "style": "Manuscript Caption"
+    },
+    {
+      "para_index": 68,
+      "text": "Figure 1. Annual financial and physical alignment",
+      "style": "Manuscript Caption"
+    },
+    {
+      "para_index": 71,
+      "text": "Table 2. Physical outcomes by recorded issuance status",
+      "style": "Manuscript Caption"
+    },
+    {
+      "para_index": 74,
+      "text": "Figure 2. Outcome frequencies by issuance status",
+      "style": "Manuscript Caption"
+    },
+    {
+      "para_index": 81,
+      "text": "Table 3. Issuance intensity and physical transition outcomes",
+      "style": "Manuscript Caption"
+    },
+    {
+      "para_index": 84,
+      "text": "Figure 3. Fixed-effects alignment estimates",
+      "style": "Manuscript Caption"
+    },
+    {
+      "para_index": 90,
+      "text": "Table 4. Robustness of the fossil-contraction estimate",
+      "style": "Manuscript Caption"
+    },
+    {
+      "para_index": 174,
+      "text": "Component",
+      "style": "Normal"
+    },
+    {
+      "para_index": 175,
+      "text": "Definition",
+      "style": "Normal"
+    },
+    {
+      "para_index": 176,
+      "text": "Unit or coding",
+      "style": "Normal"
+    },
+    {
+      "para_index": 177,
+      "text": "Source",
+      "style": "Normal"
+    },
+    {
+      "para_index": 206,
+      "text": "Outcome",
+      "style": "Normal"
+    },
+    {
+      "para_index": 207,
+      "text": "No recorded issuance",
+      "style": "Normal"
+    },
+    {
+      "para_index": 208,
+      "text": "Positive recorded issuance",
+      "style": "Normal"
+    },
+    {
+      "para_index": 209,
+      "text": "Raw difference",
+      "style": "Normal"
+    },
+    {
+      "para_index": 226,
+      "text": "Outcome",
+      "style": "Normal"
+    },
+    {
+      "para_index": 227,
+      "text": "Effect per 10 bp of GDP",
+      "style": "Normal"
+    },
+    {
+      "para_index": 228,
+      "text": "CRV3 SE",
+      "style": "Normal"
+    },
+    {
+      "para_index": 229,
+      "text": "95% CI",
+      "style": "Normal"
+    },
+    {
+      "para_index": 230,
+      "text": "p-value",
+      "style": "Normal"
+    }
+  ],
+  "examples": {
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "Green Bonds without Fossil Exit? Physical Transition Credibility in G20 Electric",
+        "style": "Manuscript Title"
+      },
+      {
+        "para_index": 2,
+        "run_text": "Abstract",
+        "style": "Manuscript Section"
+      },
+      {
+        "para_index": 3,
+        "run_text": "Green-bond issuance is often interpreted as evidence that finance is supporting ",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": "Keywords:",
+        "style": "Normal"
+      },
+      {
+        "para_index": 4,
+        "run_text": " Green bonds; transition finance; fossil electricity; renewable addition; physic",
+        "style": "Normal"
+      }
+    ],
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 67,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 73,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 83,
+        "text": "",
+        "style": "Normal"
+      },
+      {
+        "para_index": 174,
+        "text": "Component",
+        "style": "Normal"
+      },
+      {
+        "para_index": 175,
+        "text": "Definition",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

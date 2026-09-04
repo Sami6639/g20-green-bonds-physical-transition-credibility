@@ -1,0 +1,9 @@
+recorded_positive_issuance,issuance_status,outcome,outcome_label,events,denominator,frequency,frequency_percent
+0,No recorded issuance,fossil_contraction,Fossil contraction,53,175,0.3028571428571429,30.28571428571429
+0,No recorded issuance,renewable_addition,Renewable addition,113,175,0.6457142857142857,64.57142857142857
+0,No recorded issuance,coal_contraction,Coal contraction,64,158,0.4050632911392405,40.50632911392405
+0,No recorded issuance,unoffset_coal_contraction,Unoffset coal contraction,27,158,0.17088607594936708,17.088607594936708
+1,Positive recorded issuance,fossil_contraction,Fossil contraction,100,186,0.5376344086021505,53.76344086021505
+1,Positive recorded issuance,renewable_addition,Renewable addition,152,186,0.8172043010752689,81.72043010752688
+1,Positive recorded issuance,coal_contraction,Coal contraction,108,184,0.5869565217391305,58.69565217391305
+1,Positive recorded issuance,unoffset_coal_contraction,Unoffset coal contraction,48,184,0.2608695652173913,26.08695652173913

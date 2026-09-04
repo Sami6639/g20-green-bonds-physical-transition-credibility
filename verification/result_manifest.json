@@ -1,0 +1,36 @@
+{
+  "outputs": {
+    "figures/figure_1_annual_alignment.png": "5c32932e0ef075c612eedf26dda44ec71cac55096d3681915edd43814699e248",
+    "figures/figure_1_annual_alignment.svg": "faac59c254bfcb67a6097d04d6bc5f4611e103cc8ffc13cda0bb3726fcd668d4",
+    "figures/figure_2_outcomes_by_issuance.png": "5066d429b01db04d87e065e579b8cbe62da9eb9ea7a5a0eecc0167ea65e59153",
+    "figures/figure_2_outcomes_by_issuance.svg": "f2dc25a813c5179f4c8cce3abbe4ad0d362502d6e7b7260632b76d95d93ca759",
+    "figures/figure_3_fixed_effects_estimates.png": "14c5317c345ea90050482770dfae19c806697ec0466945b35df6d8d422d524f9",
+    "figures/figure_3_fixed_effects_estimates.svg": "1f4111e9f3a6ca64673152e3ea8ebbd6a64f12b3f7dcc4d0f722099af1bc7645",
+    "results/annual_summary.csv": "a3919d13b541f5458b0a62fbda8cee803301c07539ae7c1ae6daf120dd806ed2",
+    "results/country_summary.csv": "fcb42d82bced4427abb4b1ec658e17c584b95b09f9c827025771ed9c674fc0cb",
+    "results/descriptive_cluster_bootstrap.csv": "89e2fe286ef6520fd9486e219565681d279f6502bf23526cc541a30af458167f",
+    "results/loco_all_outcomes.csv": "7032b7aa5d3cf56dc846b768b24aef5764e88e33a1ce2f3c31a60ea7e8f97da7",
+    "results/main_models.csv": "55d07b201044371527505fe91455f69edeec6371c8e10d709cecaf0d9ea16c8c",
+    "results/outcome_frequencies.csv": "78628b3f8545461b8b9311a2419572762f9fcadfd320b50736b9385002ed4f13",
+    "results/physical_magnitudes_by_issuance.csv": "98d28314c375007480cfdf76084c119d4baa44c659c616aba1252fbef37f8bec",
+    "results/robustness_models.csv": "540a643bb08f88aa96e589dcf3b5c5b65a47a92bb51c66a3ffc0d6a102ba7f67",
+    "results/sample_summary.csv": "52bc2a7ba13e78c9bdb5d9eb842dee3ca49ad57722f7f08de2c8abc6a3453a0b",
+    "results/threshold_models_all_outcomes.csv": "9c94e651f19995f79e40a62bd462a9853df583b7c9e4bc09ee9815fe2d9e2469",
+    "tables/table_1_sample_summary.csv": "52bc2a7ba13e78c9bdb5d9eb842dee3ca49ad57722f7f08de2c8abc6a3453a0b",
+    "tables/table_2_outcome_frequencies.csv": "78628b3f8545461b8b9311a2419572762f9fcadfd320b50736b9385002ed4f13",
+    "tables/table_3_main_models.csv": "55d07b201044371527505fe91455f69edeec6371c8e10d709cecaf0d9ea16c8c",
+    "tables/table_s1_robustness.csv": "540a643bb08f88aa96e589dcf3b5c5b65a47a92bb51c66a3ffc0d6a102ba7f67",
+    "tables/table_s2_loco.csv": "7032b7aa5d3cf56dc846b768b24aef5764e88e33a1ce2f3c31a60ea7e8f97da7",
+    "tables/table_s3_bootstrap.csv": "89e2fe286ef6520fd9486e219565681d279f6502bf23526cc541a30af458167f",
+    "tables/table_s4_physical_magnitudes.csv": "98d28314c375007480cfdf76084c119d4baa44c659c616aba1252fbef37f8bec",
+    "tables/table_s5_threshold_models.csv": "9c94e651f19995f79e40a62bd462a9853df583b7c9e4bc09ee9815fe2d9e2469"
+  },
+  "primary_exposure": "issuance_bp_gdp",
+  "primary_outcome": "fossil_contraction",
+  "seed": 20260904,
+  "wild_cluster_bootstrap": {
+    "bootstrap_type": "33",
+    "replications": 9999,
+    "weights": "webb"
+  }
+}

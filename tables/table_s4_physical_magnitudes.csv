@@ -1,0 +1,11 @@
+recorded_positive_issuance,issuance_status,variable,label,n,mean_twh,median_twh,q25_twh,q75_twh
+0,No recorded issuance,delta_renewables_electricity,Renewable generation change,175,7.1256,1.5399999999999991,-0.8499999999999979,8.830000000000002
+0,No recorded issuance,delta_coal_electricity,Coal generation change,175,16.544171428571428,0.9900000000000092,-0.9499999999999995,8.684999999999988
+0,No recorded issuance,delta_gas_electricity,Gas generation change,175,5.441999999999999,2.960000000000001,-1.455,10.390000000000008
+0,No recorded issuance,delta_oil_electricity,Oil generation change,175,-0.7981714285714286,0.0,-2.589999999999999,1.8450000000000006
+0,No recorded issuance,delta_fossil_electricity,Fossil generation change,175,21.188,6.52000000000001,-2.1799999999999997,18.554999999999993
+1,Positive recorded issuance,delta_renewables_electricity,Renewable generation change,186,22.51715053763441,7.890000000000022,1.254999999999992,18.287499999999973
+1,Positive recorded issuance,delta_coal_electricity,Coal generation change,186,2.304569892473121,-1.2949999999999995,-9.239999999999993,3.965
+1,Positive recorded issuance,delta_gas_electricity,Gas generation change,186,6.289354838709678,1.7649999999999864,-5.349999999999995,10.842500000000006
+1,Positive recorded issuance,delta_oil_electricity,Oil generation change,186,-1.0286559139784948,-0.12499999999999994,-1.4399999999999966,0.7125000000000004
+1,Positive recorded issuance,delta_fossil_electricity,Fossil generation change,186,7.565268817204301,-1.0200000000000102,-15.412499999999994,11.919999999999979

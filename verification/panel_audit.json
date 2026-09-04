@@ -1,0 +1,16 @@
+{
+  "coal_eligible_rows": 342,
+  "countries": 19,
+  "csv_sha256": "861385b7672874601b22e223f419bb76ebe9d07b3f7a10e93d9ad644c5807013",
+  "finance_intensity_complete": true,
+  "imf_blank_rows": 175,
+  "parquet_sha256": "72b3c51492c9ac15e437a7de4102924298fc571684fcaeabc08c6f25fc2dc083",
+  "positive_recorded_issuance_rows": 186,
+  "primary_outcome_complete": true,
+  "rows": 361,
+  "unique_country_year": true,
+  "years": [
+    2006,
+    2024
+  ]
+}

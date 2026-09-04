@@ -1,0 +1,41 @@
+{
+  "baseline_pass": true,
+  "decision": "IMPLEMENTATION BASELINE PASS",
+  "fossil_reconciliation_pass": true,
+  "imf_country_set_match": true,
+  "imf_g20_country_rows": 19,
+  "imf_unique_country_rows": true,
+  "max_fossil_reconciliation_twh": 9.094947017729282e-13,
+  "owid_complete": true,
+  "owid_rows": 380,
+  "owid_unique_keys": true,
+  "package_versions": {
+    "matplotlib": "3.10.8",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "pyarrow": "25.0.1",
+    "pyfixest": "0.60.0",
+    "pytest": "9.1.1",
+    "python-docx": "1.2.0",
+    "scipy": "1.17.0",
+    "seaborn": "0.13.2",
+    "statsmodels": "0.15.0",
+    "wildboottest": "0.3.2"
+  },
+  "package_versions_match": true,
+  "python_major_minor_match": true,
+  "python_version": "3.12.13",
+  "raw_hashes": {
+    "imf-green-bonds-feature-query.json": "9838ee3f2e52233d0b071ce30b8b8b2416da6cd4d9f821c686e95b89b488a956",
+    "imf-green-bonds-item-metadata.json": "a4a85ede58dec24a820c9faae3ef379c42d1b35975919482fa76d28738453fbb",
+    "imf-green-bonds-layer-metadata.json": "333f4c77c2449cd24c1038b3391e53397ebf75be8b72f02989d5d2bcb72069d1",
+    "owid-energy-codebook.csv": "3cc9b7db0d921496e2988568ce3aee5ed41f50431dd234a0663b5f0a4b2e32bb",
+    "owid-energy-data.csv": "266f2e2baad7975351bc9bb4aa061d22b1da9fe4c47d51d2ac6071e01e171f76",
+    "wdi-gdp-current-usd-2005-2024.json": "771d493d14497ce2604db81873e793f4cab13e4e74d751b48bc3d179a39d4dbe"
+  },
+  "raw_hashes_match": true,
+  "wdi_complete_positive": true,
+  "wdi_country_set_match": true,
+  "wdi_rows": 380,
+  "wdi_unique_keys": true
+}
