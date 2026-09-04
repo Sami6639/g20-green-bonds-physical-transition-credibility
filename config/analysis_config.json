@@ -1,0 +1,18 @@
+{
+  "project_seed": 20260904,
+  "analysis_start_year": 2006,
+  "analysis_end_year": 2024,
+  "lag_buffer_year": 2005,
+  "materiality_thresholds": [0.0, 0.001, 0.0025],
+  "wild_cluster_bootstrap_replications": 9999,
+  "wild_cluster_bootstrap_weights": "webb",
+  "wild_cluster_bootstrap_type": "33",
+  "primary_outcome": "fossil_contraction",
+  "primary_exposure": "issuance_bp_gdp",
+  "cluster_variable": "iso3",
+  "country_iso3": [
+    "ARG", "AUS", "BRA", "CAN", "CHN", "FRA", "DEU", "IND", "IDN",
+    "ITA", "JPN", "MEX", "RUS", "SAU", "ZAF", "KOR", "TUR", "GBR", "USA"
+  ],
+  "excluded_aggregate_entities": ["European Union"]
+}

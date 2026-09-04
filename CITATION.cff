@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the accompanying article and this repository."
+title: "Green Bonds without Fossil Exit? Physical Transition Credibility in G20 Electricity Systems"
+type: software
+authors:
+  - family-names: "Küçükçığlu"
+    given-names: "Sami"
+repository-code: "https://github.com/Sami6639/g20-green-bonds-physical-transition-credibility"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-04
+keywords:
+  - green bonds
+  - transition finance
+  - fossil electricity
+  - G20
+  - reproducibility
