@@ -1,0 +1,21 @@
+{
+  "status": "TABLE S6 VERIFIED",
+  "scope": "Exploratory diagnostics; no change to the locked main analysis",
+  "estimator": "Country/year OLS; retained PyFixest 0.60.0 small-sample-adjusted CRV3 convention",
+  "ssc": {
+    "k_adj": true,
+    "G_adj": true,
+    "k_fixef": "nonnested",
+    "G_df": "min"
+  },
+  "reference_distribution": "t(G-1)",
+  "percentile": 0.99,
+  "quantile_interpolation": "linear",
+  "transform": "asinh(issuance in basis points of GDP)",
+  "comparison": "All five rows match manuscript Table S6 at reported precision",
+  "files": {
+    "code/06_exposure_diagnostics.py": "afb72119435749e799864f1ea9fbd64425a90c0c42c220bf1bbe7ed53afc9bb1",
+    "results/exposure_diagnostics.csv": "f46be2ba3dc6353bef365f4a93c9ad3e66359a6513113dd7ced776819a37a19e",
+    "tables/table_s6_exposure_diagnostics.csv": "789137c2fc0601ef33158d15442bf4bb35a142e4686745180e23fc22904fc582"
+  }
+}
