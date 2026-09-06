@@ -6,4 +6,4 @@ Copy the code, results, tables, verification and docs directories into the exist
 
 The accompanying code and aggregate outputs reproduce all five Table S6 rows at the manuscript's reported precision. See docs/S6_REPRODUCIBILITY.md for definitions, inference settings and validation. Provider observations and the analytical panel are not included.
 
-This supplement accompanies Green_Bonds_FF_Final.docx. The GitHub integration refused write access (HTTP 403), so these files have been prepared for addition to the repository and have not been published there by this editing operation.
+This supplement provides the code, aggregate results, and documentation for the exploratory Table S6 diagnostics reported in the manuscript.
